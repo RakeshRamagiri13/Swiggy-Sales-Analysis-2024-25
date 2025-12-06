@@ -23,7 +23,5 @@ To support business decision-making by analyzing Swiggy order data and visualizi
 -	Designed an interactive Excel dashboard with KPIs, slicers, and visual charts to deliver clear business insights on Swiggy’s overall sales performance.
 
 # DashBoard  
-<img width="1002" height="591" alt="Screenshot 2025-12-03 201010" src="https://github.com/user-attachments/assets/4b26db67-e9c3-48d1-a773-fc860738d7c2" />
-
-
+<img width="979" height="600" alt="Screenshot 2025-12-05 135150" src="https://github.com/user-attachments/assets/e6225cc1-d4fb-400e-ae2c-2658e8f82b8a" />
 
