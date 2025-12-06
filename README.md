@@ -24,6 +24,7 @@ To support business decision-making by analyzing Swiggy order data and visualizi
 
 # DashBoard  
 <img width="979" height="600" alt="Screenshot 2025-12-05 135150" src="https://github.com/user-attachments/assets/e6225cc1-d4fb-400e-ae2c-2658e8f82b8a" />
+
 ## Project Insight
 -Total sales reached ₹53.01M, driven largely by strong customer engagement with 5.59M+ ratings and 197K+ total orders.
 -Bengaluru recorded the highest city-wise sales, followed by Lucknow, Hyderabad, Mumbai, and New Delhi.
