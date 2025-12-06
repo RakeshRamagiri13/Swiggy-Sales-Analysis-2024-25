@@ -13,3 +13,6 @@ To support business decision-making by analyzing Swiggy order data and visualizi
 •	Top 5 Cities By Sales
 •	Weekly Trend Analysis
 
+-DashBoard Intereaction <a href="https://github.com/RakeshRamagiri13/Swiggy-Sales-Analysis/blob/main/Screenshot%202025-12-03%20201010.png">Veiw DashBoard</a>
+
+
