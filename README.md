@@ -13,4 +13,3 @@ To support business decision-making by analyzing Swiggy order data and visualizi
 •	Top 5 Best Perfomance Restaurents By Rating
 •	Top 5 Cities By Sales
 •	Weekly Trend Analysis
-
