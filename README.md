@@ -36,3 +36,6 @@ To support business decision-making by analyzing Swiggy order data and visualizi
 -Food category performance shows Non-Veg dominating with 65% of total sales, while Veg contributes the remaining 35%.
 
 -Daily and weekly trends reveal Friday and Saturday as peak-performing days, indicating higher weekend ordering behavior.
+
+## Final Conclusion
+-The Swiggy sales dashboard shows steady business growth, strong customer engagement, and high weekend demand. Major cities like Bengaluru lead the revenue, with Non-Veg items contributing the most to total sales. Overall, the data highlights a healthy and expanding food delivery performance throughout the year.
