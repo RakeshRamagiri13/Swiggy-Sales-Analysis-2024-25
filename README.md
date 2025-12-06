@@ -22,6 +22,8 @@ To support business decision-making by analyzing Swiggy order data and visualizi
 - Built multiple Pivot Tables to Analyse monthly trends, daily sales, food categories, top cities, restaurants, and state-wise performance.
 -	Designed an interactive Excel dashboard with KPIs, slicers, and visual charts to deliver clear business insights on Swiggy’s overall sales performance.
 
+# DashBoard  
+<img width="1002" height="591" alt="Screenshot 2025-12-03 201010" src="https://github.com/user-attachments/assets/4b26db67-e9c3-48d1-a773-fc860738d7c2" />
 
 
 
